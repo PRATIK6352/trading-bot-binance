@@ -70,7 +70,7 @@ trading_bot/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/trading-bot-binance.git
+git clone https://github.com/PRATIK6352/trading-bot-binance.git
 cd trading-bot-binance
 ```
 
@@ -200,7 +200,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Pratik Patil**
-Python Developer | API Integration | Trading Systems | Data Engineering
+Python Developer | API Integration | Trading Systems
 
 ---
 
